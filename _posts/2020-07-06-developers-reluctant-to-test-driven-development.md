@@ -19,14 +19,13 @@ And the conversations around his question were really interesting: people were p
 
 Besides education, the majority of the examples you can find on the Internet do not help a lot in order to explain the benefits of applying or using TDD. Most of the examples are easy ([programming katas](https://en.wikipedia.org/wiki/Kata_(programming))) and therefore you can't compare nor see how to start using TDD on your day-to-day project where you are facing with an unmaintainable legacy or untestable code.
 
-![woman reluctant to married](/assets/images/reluctant.jpeg)
-
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/reluctant.jpeg" alt="woman reluctant to married">
 
 There are many more reasons on why developers don't like to try TDD, and I think it is also because the discipline is hard at the beginning. You have to almost "forget" what you know, and force yourself to do things differently. Probably in all your professional experience you had to make tests (with a strong _"if"_ in some companies this is still something unusual) and always you make them at the end of the development, when you have your feature working (supposedly, because you cannot verify it). And yes, TDD is completely opposite to this way of working, so you have to "fight" yourself, thinking that you're trying to do things differently than you've been doing all your life and whether this is the right way to do it or not. But, do not panic, trust me, suddenly all the pieces fit 😉
 
 I can see myself years ago arguing about why we should use TDD if it does not matter when you write your tests? Well, after some time (weeks? months?) practicing by myself with several katas, attending community events, and trying to use it in real projects, just like that, I finally got used to it. As a habit, like riding a bike. We don't know how, suddenly one day, you go from not knowing how to hold your balance, to riding your bike alone, without help from anyone. 
 
-![woman reluctant to married](/assets/images/learning_drive_bycycle.jpeg)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/learning_drive_bycycle.jpeg" alt="kid learning to drive a bycicle">
 
 Today, one can say that I have become a strong advocate of this methodology and whenever I can, I try to follow its principles. I must also say that, having been doing pair programming with colleagues who could help me to make the way, something must have helped me, and personally I think a lot. So thank you to all those who participated in this learning!
 
